@@ -1,1 +1,13 @@
-
+[
+  {"title":"Create Patch Notes"},
+  {"topic":"Beta"},
+{"topic-images":[]},
+  {"body1-markdown":"Text"},
+{"bod1-images":[]},  
+  {"body2-markdown":"Text"},
+{"bod2-images":[]},   
+  {"body3-markdown":"Text"},
+{"bod1-images":[]},    
+  {"extrabodies-md":["Stuff"]},
+{"extra-images":[]}
+]
